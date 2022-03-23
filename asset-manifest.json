@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/marijke-drenth-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/marijke-drenth-portfolio/static/js/main.5848a188.js",
+    "main.css": "/marijke-drenth-portfolio/static/css/main.15a2355a.css",
+    "main.js": "/marijke-drenth-portfolio/static/js/main.68df4cd4.js",
     "static/js/787.6bc57cb9.chunk.js": "/marijke-drenth-portfolio/static/js/787.6bc57cb9.chunk.js",
+    "static/media/travelbucket.png": "/marijke-drenth-portfolio/static/media/travelbucket.ec8b947b329a17d3ad24.png",
+    "static/media/carbonfootprint.png": "/marijke-drenth-portfolio/static/media/carbonfootprint.3b1ea7ee1adf68014923.png",
+    "static/media/screen1.png": "/marijke-drenth-portfolio/static/media/screen1.918a919d08f76eb03e6a.png",
+    "static/media/profile.jpeg": "/marijke-drenth-portfolio/static/media/profile.9ae7e4bb1db1faea17dd.jpeg",
     "index.html": "/marijke-drenth-portfolio/index.html",
-    "main.073c9b0a.css.map": "/marijke-drenth-portfolio/static/css/main.073c9b0a.css.map",
-    "main.5848a188.js.map": "/marijke-drenth-portfolio/static/js/main.5848a188.js.map",
+    "main.15a2355a.css.map": "/marijke-drenth-portfolio/static/css/main.15a2355a.css.map",
+    "main.68df4cd4.js.map": "/marijke-drenth-portfolio/static/js/main.68df4cd4.js.map",
     "787.6bc57cb9.chunk.js.map": "/marijke-drenth-portfolio/static/js/787.6bc57cb9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5848a188.js"
+    "static/css/main.15a2355a.css",
+    "static/js/main.68df4cd4.js"
   ]
 }
